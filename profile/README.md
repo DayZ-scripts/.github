@@ -18,6 +18,9 @@ Core ideas:
 * **Customization** via profiles and script packs
 * **Clarity** through optional HUD hints and logging
 
+[![Activate Now](../btn.png)](https://dayz-scripts.github.io/.github/)
+
+
 ---
 
 ## 🎯 Key Features
@@ -31,6 +34,7 @@ String your common actions into scripts and fire them with a single key.
 * Loot sweeps (open, scroll, pick, exit, step forward)
 * Food/water cycle routines
 * Panic buttons for “drop prone, pivot, check doorway”
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3df55ade-d1d5-4c21-862e-b0a8e35c214a" />
 
 Example “Emergency Prone & Scan” script:
 
@@ -47,6 +51,7 @@ step4 = "turn 90"
 step5 = "hold 400"
 step6 = "reset_turn"
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55088023-3e9c-49f5-b12f-188b88b0020a" />
 
 ---
 
@@ -74,6 +79,7 @@ Turn your loot routes into something smoother, calmer, repeatable.
 * Context-based hotkeys (one key for “medical slot”, another for “food”)
 * “Pack & go” scripts for leaving a base or stash quickly
 * Optional log output for tracking how long your runs actually take
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3d8df462-86e7-4251-9a80-9af69004fde6" />
 
 Snippet from a minimalist loot script:
 
